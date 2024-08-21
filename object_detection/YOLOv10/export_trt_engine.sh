@@ -1,0 +1,1 @@
+trtexec --onnx=yolov10n.onnx --saveEngine=yolov10n.engine  --verbose --fp16
